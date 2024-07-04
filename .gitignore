@@ -1,0 +1,4 @@
+.DS_Store
+llama_log.txt
+models/
+llama_env/
